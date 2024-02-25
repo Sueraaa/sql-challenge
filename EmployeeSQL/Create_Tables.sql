@@ -48,4 +48,4 @@ CREATE TABLE Titles (
     title VARCHAR (20) NOT NULL
 );
 
--- I created Departments table first then Titles, Salaries, Employees, Dept_Employees, Dept_Managers respectively. 
+-- I created Departments table first then Titles, Salaries, Employees, Dept_Employees, Dept_Managers respectively..
